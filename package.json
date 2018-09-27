@@ -1,0 +1,19 @@
+{
+  "name": "reactclickygamedd",
+  "version": "1.0.0",
+  "description": "This is a simple memory challenge game written in React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daydoug14/ReactClickyGameDD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daydoug14/ReactClickyGameDD/issues"
+  },
+  "homepage": "https://github.com/daydoug14/ReactClickyGameDD#readme"
+}
